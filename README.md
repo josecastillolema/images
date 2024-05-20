@@ -4,6 +4,7 @@
 
 Container Images for OCP Perf&Scale
 
-- nginx: quay.io/cloud-bulldozer/nginx:latest
 - etcd-perf: quay.io/cloud-bulldozer/etcd-perf:latest
+- frr: quay.io/cloud-bulldozer/frr:latest
+- nginx: quay.io/cloud-bulldozer/nginx:latest
 - perfApp: quay.io/cloud-bulldozer/perfapp:latest
